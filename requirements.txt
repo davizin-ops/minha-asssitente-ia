@@ -1,0 +1,5 @@
+meu-assistente-ai/
+├── app.py
+├── requirements.txt  
+├── render.yaml
+└── README.md
